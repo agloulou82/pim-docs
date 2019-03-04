@@ -1,5 +1,5 @@
-Guide to apply patch for Community Edition
-============================================
+Guide to apply a patch for Community Edition
+=============================================
 
 Run the composer update command:
 

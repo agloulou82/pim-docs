@@ -1,9 +1,9 @@
-Guide to apply patch for Enterprise Edition
-============================================
+Guide to apply a patch for Enterprise Edition
+==============================================
 
 In the following example, Akeneo PIM version 2.3.10 has just been released and we are using an Akeneo PIM version 2.3.9.
 
-We always tag both community and enterprise versions with aligned version numbers, be sure to use the exact same version for CE and EE, for instance, a EE 2.3.10 fix may depend on CE 2.3.10.
+We always tag both Community and Enterprise versions with aligned version numbers, be sure to use the exact same version for CE and EE, for instance, a EE 2.3.10 fix may depend on CE 2.3.10.
 
 Using the exact patch version will avoid any local composer cache issue.
 
